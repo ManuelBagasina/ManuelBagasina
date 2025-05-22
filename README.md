@@ -12,4 +12,4 @@ My professional interests in Data Science are data management, cleaning, manipul
 - **[F1](https://github.com/ManuelBagasina/DiabetesML)** - F1 statistics were analyzed to predict what factors influence a driver to perform well.
 - **[UFC](https://github.com/ManuelBagasina/UFC)** - Data Analysis Project on Ultimate Fighting Champion
 - **[Analysis Works](https://github.com/ManuelBagasina/AnalysisWorks)** - Mini projects on Data Analysis
-  **[Engineering Works](https://github.com/ManuelBagasina/Engineering)** - Mini projects on Data Engineering
+- **[Engineering Works](https://github.com/ManuelBagasina/Engineering)** - Mini projects on Data Engineering
