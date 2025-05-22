@@ -1,6 +1,6 @@
 # Greetings, I am Manuelito Bagasina.
 
-I'm a senior Data Science Major at Arizona State University. I specialize in Python, SQL, and Alteryx. \
+I'm a freshly graduated Data Science Major at Arizona State University. I specialize in Python, SQL, and Tableau.
 \
 I am currently looking for Data Science internships or jobs, and I graduated on May 12, 2025 from Arizona State University as Magna Cum Laude.\
 \
