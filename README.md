@@ -13,3 +13,6 @@ My professional interests in Data Science are data management, cleaning, manipul
 - **[UFC](https://github.com/ManuelBagasina/UFC)** - Data Analysis Project on Ultimate Fighting Champion
 - **[Analysis Works](https://github.com/ManuelBagasina/AnalysisWorks)** - Mini projects on Data Analysis
 - **[Engineering Works](https://github.com/ManuelBagasina/Engineering)** - Mini projects on Data Engineering
+
+## My Projects
+If you want to see my portfolio, kindly go to this **[Link](https://manuelbagasina.github.io/portfolio/)** 
