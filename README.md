@@ -6,6 +6,9 @@ I am currently looking for Data Science internships or jobs, and I graduated on 
 \
 My professional interests in Data Science are data management, cleaning, manipulation, and analysis, and modeling.  
 
+## My Portfolio
+If you want to see my portfolio or want to see my projects' main visuals, kindly go to this **[Link](https://manuelbagasina.github.io/portfolio/)** 
+
 ## My Projects
 - **[Stock Price Prediction](https://github.com/ManuelBagasina/DATCapstone)** - Sentiment analysis, historical stock data, macroeconomic, and microeconomic factors were used to predict stock price movement. 
 - **[DiabetesML](https://github.com/ManuelBagasina/DiabetesML)** - This project uses health data to model and predict what factors cause diabetes. 
@@ -14,5 +17,4 @@ My professional interests in Data Science are data management, cleaning, manipul
 - **[Analysis Works](https://github.com/ManuelBagasina/AnalysisWorks)** - Mini projects on Data Analysis
 - **[Engineering Works](https://github.com/ManuelBagasina/Engineering)** - Mini projects on Data Engineering
 
-## My Projects
-If you want to see my portfolio, kindly go to this **[Link](https://manuelbagasina.github.io/portfolio/)** 
+
